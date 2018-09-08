@@ -1,0 +1,18 @@
+.vscode
+
+# VirtualEnvironemt
+venv/
+venv-ubuntu/
+
+# pycache
+__pycache__/
+
+# database
+# data.db
+
+
+#.idea
+.idea/
+
+#Logs
+*.log
