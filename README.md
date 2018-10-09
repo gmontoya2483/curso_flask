@@ -4,7 +4,7 @@ El siguiente proyecto, tiene como finalidad ser un tutorial de Flask, el cual es
 
 ## Contenido
 
-* [Section 1: Hello World](section_1_hello_world.md)
+* **[Section 1: Hello World](section_1_hello_world.md)**
     * [Instalar Python](section_1_hello_world.md#instalar-python)
         * [Ubuntu](section_1_hello_world.md#ubuntu)
         * [Diferencias entre virtualenv y venv](section_1_hello_world.md#diferencias-entre-virtualenv-y-venv)
@@ -16,6 +16,11 @@ El siguiente proyecto, tiene como finalidad ser un tutorial de Flask, el cual es
         * [En PowerShell](section_1_hello_world.md#en-powershell)
         * [Modo Debug](section_1_hello_world.md#modo-debug)
     * [Referencias](section_1_hello_world.md#referencias)
+* **[Section 2: Templates](section_2_templates.md)**   
+    * [Que son los Templates](section_2_templates.md#que-son-los-templates)
+    * [Conditional Statement](section_2_templates.md#conditional-statement)
+    * [Loops](section_2_templates.md#loops)
+    * [Herencia de Templates](section_2_templates.md#herencia-de-templates)
 
 * [Referencias](#referencias)
 
