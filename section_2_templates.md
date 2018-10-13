@@ -11,6 +11,10 @@ El objetivo de esta sección es explicar que son los templates en flask y el uso
 * [Conditional Statement](#conditional-statement)
 * [Loops](#loops)
 * [Herencia de Templates](#herencia-de-templates)
+* [Macros](#macros)
+* [Filters](#filters)
+* [Desarrollar nuestros propios Filters](#desarrollar-nuestros-propios-filters)
+* [Referencias](#referencias)
 
 ## Que son los Templates
 

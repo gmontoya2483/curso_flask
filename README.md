@@ -21,6 +21,19 @@ El siguiente proyecto, tiene como finalidad ser un tutorial de Flask, el cual es
     * [Conditional Statement](section_2_templates.md#conditional-statement)
     * [Loops](section_2_templates.md#loops)
     * [Herencia de Templates](section_2_templates.md#herencia-de-templates)
+    * [Macros](section_2_templates.md#macros)
+    * [Filters](section_2_templates.md#filters)
+    * [Desarrollar nuestros propios Filters](section_2_templates.md#desarrollar-nuestros-propios-filters)
+    * [Referencias](section_2_templates.md#referencias)
+* **[Section 3: Web Forms](section_3_forms.md)**
+    * [Configuration](section_3_forms.md#configuration)
+    * [User Login Form](section_3_forms.md#user-login-form)
+    * [Form Templates](section_3_forms.md#form-templates)
+    * [Form Views](section_3_forms.md#form-views)
+    * [Receiving Form Data](section_3_forms.md#receiving-form-data)
+    * [Improving Field Validation](section_3_forms.md#improving-field-validation)
+    * [Generating Links](section_3_forms.md#generating-links)
+    * [Referencias](section_3_forms.md#referencias)
 
 * [Referencias](#referencias)
 
