@@ -43,8 +43,19 @@ El siguiente proyecto, tiene como finalidad ser un tutorial de Flask, el cual es
     * [Database Relationship - One to Many](section_4_sql_database.md#database-relationship---one-to-many)
     * [Shell Context](section_4_sql_database.md#shell-context)
     * [Referencias](section_4_sql_database.md#referencias)
+* **[Section 5: User logins](section_5_user_logins.md)**
+    * [Password Hashing](section_5_user_logins.md#password-hashing)
+    * [Introducción a Flask-Login](section_5_user_logins.md#introduccin-a-flask-login)
+    * [Preparando el modelo de usuario para Flask-Login](section_5_user_logins.md#preparando-el-modelo-de-usuario-para-flask-login)
+    * [User Loader Function](section_5_user_logins.md#user-loader-function)
+    * [Logging Users in](section_5_user_logins.md#logging-users-in)
+    * [Logging Users Out](section_5_user_logins.md#logging-users-out)
+    * [Requiring Users To Login](section_5_user_logins.md#requiring-users-to-login)
+    * [Showing The Logged In User in Templates](section_5_user_logins.md#showing-the-logged-in-user-in-templates)
+    * [User Registration](section_5_user_logins.md#user-registration)
+    * [Referencias](section_5_user_logins.md#referencias)
 
-* [Referencias](#referencias)
+* **[Referencias](#referencias)**
 
 
 ## Referencias
